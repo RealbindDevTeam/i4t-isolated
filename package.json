@@ -1,0 +1,15 @@
+{
+  "name": "iurest-isolated",
+  "version": "1.0.0",
+  "description": "Iurest isolated project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Realbind S.A.S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "express": "4.15.4"
+  }
+}
