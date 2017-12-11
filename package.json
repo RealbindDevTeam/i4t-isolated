@@ -1,6 +1,6 @@
 {
   "name": "iurest-isolated",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "description": "Iurest isolated project",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.17.2",
-    "cors": "2.8.4",
     "express": "4.15.4",
     "express-ipfilter": "0.3.1",
     "jade": "1.11.0"

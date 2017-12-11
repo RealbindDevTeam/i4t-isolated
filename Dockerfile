@@ -1,5 +1,5 @@
 # Aplicacion basada en Node.js Version 4.4
-FROM node:8.4.0
+FROM node:8.8.1
 # Setea el directorio de trabajo a /app
 WORKDIR /app
 # Copiar el compilado del proyecto a /app
